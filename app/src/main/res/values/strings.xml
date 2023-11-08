@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">PruebaMovie</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="info">Informacion Pelicula</string>
+    <string name="p">"Descripción: "</string>
+    <string name="a">"Duración: "</string>
+    <string name="b">"Rating: "</string>
+    <string name="c">"Fecha Lanzamiento: "</string>
+    <string name="e">"Subtitulo: "</string>
+    <string name="d">"Pelicula: "</string>
+</resources>
